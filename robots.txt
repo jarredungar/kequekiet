@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://quahshooba.alinamattson.com/sitemap.xml
